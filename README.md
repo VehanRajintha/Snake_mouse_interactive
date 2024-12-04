@@ -110,4 +110,4 @@ Your Name - [@vehanrajintha](https://www.linkedin.com/in/vehanrajintha/)
 Project Link: [https://github.com/yourusername/procedural-creature-generator](https://github.com/VehanRajintha/Snake_mouse_interactive/)
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Vehan Rajintha]
