@@ -6,7 +6,7 @@
 
 > An interactive physics-based creature generator that creates unique procedural creatures you can control with your mouse! 🖱️
 
-![Creature Demo](https://i.imgur.com/your-demo-gif-here.gif)
+![Creature Demo](https://github.com/VehanRajintha/Snake_mouse_interactive/raw/main/snake.gif)
 
 ## 🌟 Features
 
