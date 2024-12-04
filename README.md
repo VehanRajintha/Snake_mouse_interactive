@@ -25,7 +25,7 @@ Try it out here: [Live Demo](your-demo-link-here)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/procedural-creature-generator.git
+https://github.com/VehanRajintha/Snake_mouse_interactive.git
 ```
 
 2. Open `index.html` in your web browser
@@ -105,9 +105,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@vehanrajintha](https://www.linkedin.com/in/vehanrajintha/)
 
-Project Link: [https://github.com/yourusername/procedural-creature-generator](https://github.com/yourusername/procedural-creature-generator)
+Project Link: [https://github.com/yourusername/procedural-creature-generator](https://github.com/VehanRajintha/Snake_mouse_interactive/)
 
 ---
 Made with ❤️ by [Your Name]
