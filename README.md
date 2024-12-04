@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo
 
-Try it out here: [Live Demo](your-demo-link-here)
+Try it out here: [Live Demo](https://vehanrajintha.github.io/Snake_mouse_interactive/)
 
 ## 🛠️ Installation
 
